@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhamadahmadbzu graduated from BZU Multan Pakistan.
+- 👋 Hi, I’m Muhammad Ahmad Chauhan graduated from BZU Multan, Pakistan.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Java & Spring Boot
 - 📫 How to reach me @ muhamadahmadbzu@gmail.com
